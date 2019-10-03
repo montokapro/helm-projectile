@@ -42,6 +42,7 @@
 (require 'subr-x)
 (require 'projectile)
 (require 'cl-lib)
+(require 'dash)
 (require 'grep)
 (require 'helm)
 (require 'helm-types)
